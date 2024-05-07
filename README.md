@@ -1,6 +1,5 @@
 # Olá, Mundo!
  Primeiro repositorio HitHub
+Repositorio criado para projetos simples em html e css
 
-repositório criado durante uma aula
 
-essa linha eu adicionei diretamente no site
